@@ -12,3 +12,11 @@ h1 {
     color: rgb(86, 77, 59);
     background-color: rgb(245, 216, 224);
 }
+
+img {
+    width: 50%;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
